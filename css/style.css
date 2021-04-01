@@ -1,0 +1,46 @@
+.row .bianco
+{
+    background: white;
+}
+
+.row .giallo
+{
+    background: #F9E314;
+}
+
+.row .blu
+{
+    background-color: #0C7EBD;
+}
+
+.row .nero
+{
+    background: black;
+}
+
+.row .rosso
+{
+    background: #F50F0F;
+}
+
+/* utility */
+.m-full
+{
+    border: 5px solid #3f3f3f;
+}
+
+.m-top
+{
+    border-top: 5px solid #3f3f3f;
+}
+
+.m-btm
+{
+    border-bottom: 5px solid #3f3f3f;
+}
+
+.m-sx-dx
+{
+    border-left: 5px solid #3f3f3f;
+    border-right: 5px solid #3f3f3f;  
+}
