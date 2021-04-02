@@ -33,22 +33,11 @@
     height: 80px;
     background-color: rgb(97, 158, 47);
 }
-.col-0_75
-{
-    width: calc((100% / 14)*0.75);
-}
+
 
 .col-1
 {
     width: calc((100% / 14)*1);
-}
-.col-1_25
-{
-    width: calc((100% / 14)*1.25);
-}
-.col-1_75
-{
-    width: calc((100% / 14)*1.75);
 }
 .col-2
 {
@@ -57,14 +46,6 @@
 .col-3
 {
     width: calc((100% / 14)*3);
-}
-.col-3_25
-{
-    width: calc((100% / 14)*3.25);
-}
-.col-3_75
-{
-    width: calc((100% / 14)*3.75);
 }
 .col-4
 {

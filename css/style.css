@@ -1,3 +1,26 @@
+/* colonne aggiuntive al mio frame  */
+.col-0_75
+{
+    width: calc((100% / 14)*0.75);
+}
+.col-1_25
+{
+    width: calc((100% / 14)*1.25);
+}
+.col-1_75
+{
+    width: calc((100% / 14)*1.75);
+}
+.col-3_25
+{
+    width: calc((100% / 14)*3.25);
+}
+.col-3_75
+{
+    width: calc((100% / 14)*3.75);
+}
+
+/* colori alle mie colonne */
 .row .bianco
 {
     background: white;
@@ -23,7 +46,7 @@
     background: #F50F0F;
 }
 
-/* utility */
+/* margini specifici con uso delle classi */
 .m-full
 {
     border: 5px solid #3f3f3f;
@@ -44,3 +67,6 @@
     border-left: 5px solid #3f3f3f;
     border-right: 5px solid #3f3f3f;  
 }
+
+
+
